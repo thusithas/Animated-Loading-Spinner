@@ -6,6 +6,5 @@ A sleek, lightweight, and customizable loading spinner built with pure CSS. Feat
 - Pure CSS (no JavaScript)
 - Smooth color transitions using `conic-gradient`
 - Responsive design (scales to any screen size)
-- Lightweight (under 1KB)
 - Easy to customize colors, size, and speed
 - Uses modern CSS properties (`mask`, `conic-gradient`)
